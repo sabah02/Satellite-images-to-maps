@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar  4 20:33:28 2023
 
-@author: HP
 """
 
 # https://youtu.be/6pUSZgPJ3Yg
